@@ -6,8 +6,8 @@ Checklist pronto para produção com base no Apêndice A do livro: Production-Re
 
 - Estabilidade e Confiabilidade
 
-  ✔ Ele tem um ciclo de desenvolvimento padronizado.
-  ✔ Seu código passa por testes lint, unidade, integração e fim a fim.
+  ✔ Ele tem um ciclo de desenvolvimento padronizado.<br/>
+  ✔ Seu código passa por testes lint, unidade, integração e fim a fim.<br/>
   ✔ Seu processo de teste, empacotamento, versão e liberação é completamente automatizado.
   ✔ Ele tem um pipeline de deployment padronizado.
   ✔ Seus clientes são conhecidos.
